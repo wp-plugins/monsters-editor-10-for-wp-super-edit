@@ -35,10 +35,10 @@ Let's take a look at [here](http://www.guiguan.net/2007/07/monsters-editor-10-fo
          2. fill the username of your database in $kfm_db_username. Like $kfm_db_username='laurel_wdpress';
          3. fill the password of your database in $kfm_db_password. Like $kfm_db_password='dkfjal';
          4. fill the location of your files directory, saying "/wp-content/uploads/", in both $kfm_userfiles and $kfm_userfiles_output. Like $kfm_userfiles='/wp-content/uploads/'; $kfm_userfiles_output='/wp-content/uploads/';
-   5. upload the whole ¡°mse¡± directory to ¡°wp-content/plugins/superedit/tinymce_plugins¡± directory of your Web site.
-   6. Go to the Wordpress administration panel, under the ¡°Plugins¡±, there is a ¡°WP Super Edit¡±, click it! Then click ¡°Configure Editor Plugins¡±. Finally, check ¡°MsE¡±, and click ¡°Update Options¡±.
-   7. In ¡°Arrange Editor Buttons¡±, decide which place to put the ¡°MsE¡± button. (By default, it is disabled, you should enable by yourself)
-   8. *remember to use ¡°**Ctrl+F5**¡± to clean the cache before using it the **first** time*. Enjoy!
+   5. upload the whole "mse" directory to "wp-content/plugins/superedit/tinymce_plugins" directory of your Web site.
+   6. Go to the Wordpress administration panel, under the "Plugins", there is a "WP Super Edit", click it! Then click "Configure Editor Plugins". Finally, check "MsE", and click "Update Options".
+   7. In "Arrange Editor Buttons", decide which place to put the "MsE" button. (By default, it is disabled, you should enable by yourself)
+   8. *remember to use "**Ctrl+F5**" to clean the cache before using it the **first** time*. Enjoy!
 
 == Frequently Asked Questions ==
 
