@@ -10,14 +10,14 @@
 ; WP Super Edit options for this plugin
 
 desc = "MsE"
-notice = "Monsters Editor 1.0, powered by <a href='http://www.guiguan.net' target='_blank'>Laurel</a>. It brings back the passion and wisdom of latest <a href='http://www.fckeditor.net/' target='_blank'>Fckeditor</a> and <a href='http://kfm.verens.com/' target='_blank'>KFM</a>."
+notice = "Monsters Editor 1.0, powered by <a href=http://www.guiguan.net target=_blank>Laurel</a>. It brings back the passion and wisdom of latest <a href=http://www.fckeditor.net/ target=_blank>Fckeditor</a> and <a href=http://kfm.verens.com/ target=_blank>KFM</a>."
 status = N
 
 ; Tiny MCE Buttons provided by this plugin
 
 [mse]
 desc = "MsE"
-notice = "Monsters Editor 1.0, powered by <a href='http://www.guiguan.net' target='_blank'>Laurel</a>. It brings back the passion and wisdom of latest <a href='http://www.fckeditor.net/' target='_blank'>Fckeditor</a> and <a href='http://kfm.verens.com/' target='_blank'>KFM</a>."
+notice = "Monsters Editor 1.0, powered by <a href=http://www.guiguan.net target=_blank>Laurel</a>. It brings back the passion and wisdom of latest <a href=http://www.fckeditor.net/ target=_blank>Fckeditor</a> and <a href=http://kfm.verens.com/ target=_blank>KFM</a>."
 status = N
 row = 0
 position = 0
