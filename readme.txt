@@ -28,7 +28,7 @@ Let's take a look at [here](http://www.guiguan.net/2007/07/monsters-editor-10-fo
 == Installation ==
 
    1. install *[WP Super Edit](http://wordpress.org/extend/plugins/wp-super-edit/installation/)* (prerequisite)
-   2. download *Monsters Editor 1.0 for WP Super Edit*, unzip it.
+   2. download *Monsters Editor 1.1 for WP Super Edit*, unzip it.
    3. modify fckeditor_config.js as you wish (optional)
    4. modify configuration.php in mse/fckeditor/editor/plugins/kfm **(important)**
          1. fill the name of your database in $kfm_db_name. Like $kfm_db_name='laurel_wordpress';
@@ -48,7 +48,7 @@ Drop all your questions here: [http://www.guiguan.net/2007/07/monsters-editor-10
 
 == Screenshots ==
 
-1. I'm Monsters Editor 1.0
+1. I'm Monsters Editor 1.1
 2. To open MsE, just click the "MsE" button in TinyMCE.
 3. After the MsE was launched, those content in TinyMCE will automatically transport to powerful Fckeditor.
 4. Why not right click on an image? Fckeditor has beautiful context menu.
